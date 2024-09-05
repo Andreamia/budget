@@ -1,0 +1,11 @@
+347.51
+Food, Milk, $2.99
+Clothes, Skirt, $15.00
+Entertainment, Cinema, $8.00
+Other, Book, $10.00
+Food, Bread, $2.00
+Entertainment, Circus, $12.00
+Other, Gas, $23.50
+Food, Banana, $4.00
+Food, Apples, $5.00
+Clothes, Pants, $20.00
